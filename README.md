@@ -1,7 +1,7 @@
 # Airports map
 Example plot of airport locations using [Folium](https://github.com/python-visualization/folium)
-### [Notebook](https://rawgit.com/adimali/airports/master/airports_notebook.html)
-### [Map](https://rawgit.com/adimali/airports/master/airports.html)
+### [Notebook](https://adimali.github.io/airports/airports_notebook.html)
+### [Map](https://adimali.github.io/airports/airports.html)
 
 ## Creators
 
